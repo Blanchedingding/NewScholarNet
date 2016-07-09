@@ -1,2 +1,4 @@
-/node_module/
-.git/
+/node_modules/
+/.git/
+/.idea/
+/semantic/
